@@ -4,3 +4,5 @@ sua boi beta
 Sua boi master
 
 sua boi master sau khi push len remote
+
+them mot dong moi
