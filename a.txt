@@ -2,3 +2,5 @@ noi dung a
 
 sua boi beta
 Sua boi master
+
+sua boi master sau khi push len remote
